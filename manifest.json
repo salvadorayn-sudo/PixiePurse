@@ -1,0 +1,10 @@
+{
+  "name": "PixiePurse",
+  "short_name": "PixiePurse",
+  "description": "Little savings, big dreams.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF9FF",
+  "theme_color": "#FA5F9E",
+  "orientation": "portrait"
+}
